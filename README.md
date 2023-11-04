@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniketh1
 - 👀 I’m interested in programming and youtube
-- 🌱 I’m currently learning diploma 
+- 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me : you can communicate with me through youtube : aniket codez; or insta : aniket_korwar
 
 <!---
