@@ -8,12 +8,10 @@ Welcome to my GitHub profile! I'm a passionate developer and computer science st
 - **Batch**: 2026
 - **Interests**: Web Development, Software Development, and Tech Innovations
 
-## 📊 Statistics
+## Statistics
+- **Total Repositories**: ![Total Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=$.public_repos&url=https://api.github.com/users/aniketh1)
+- **Total Submissions**: ![Total Submissions](https://img.shields.io/badge/dynamic/json?color=green&label=Submissions&query=$.submissions&url=https://api.github.com/users/aniketh1)
 
-- **Total Repositories**: [28]
-- **Total Submissions**: [30]
-- **Large Projects**: [3]
-- **Small Projects**: [4]
 
 ## 🛠️ Technologies & Tools
 
