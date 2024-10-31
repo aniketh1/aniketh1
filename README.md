@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer and computer science st
 
 ## 📊 Statistics
 
-- **Total Repositories**: [20]
+- **Total Repositories**: [28]
 - **Total Submissions**: [30]
 - **Large Projects**: [3]
 - **Small Projects**: [4]
@@ -39,14 +39,16 @@ Welcome to my GitHub profile! I'm a passionate developer and computer science st
 
 ### Small Projects
 
-- **ClimaView App**: [Link](https://your-project-link.com)
-  - Description: Brief description of the project.
+- **ClimaView App**: [Link](https://github.com/aniketh1/ClimaView-App)
+  - Technologies Used: Built with React.js, styled using Tailwind CSS, and integrated with the OpenWeather API for real-time weather data.
+  - Description: A Simple real-time weather Reporter which you can use in your projects also by git clone
   
-- **BMW**: [Link](https://your-project-link.com)
-  - Description: Brief description of the project.
+- **Bayerische-Motors-Hub**: [Link](https://github.com/aniketh1/Bayerische-Motors-Hub)
+  - Technologies Used: Developed using React.js, styled with Tailwind CSS, and connected to a backend using Express.js for seamless data management.
+  - Description: A simple E commerce type website
 
 ## 📫 Contact Me
 
-- **Email**: your.email@example.com
+- **Email**: aniketkorwa@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/aniket-korwar-064550203/)
 - **Instagram**: [aniket_korwar](https://instagram.com/aniket_korwar)
