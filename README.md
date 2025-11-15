@@ -4,29 +4,39 @@
 
 ---
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=1E90FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node+%7C+MongoDB;SWE+Intern+@+Cvent;Creative+%26+Unconventional+Engineer;Always+Building+Something+Cool" />
+</p>
+
+---
+
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketh1&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=aniketh1&label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat"/>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat"/>
+  <img src="https://img.shields.io/github/followers/aniketh1?style=flat&color=yellow" />
+  <img src="https://img.shields.io/github/stars/aniketh1?style=flat&color=success" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 I'm an Information Science Engineering student (BMSCE '26) with experience building full-stack applications using **React, Next.js, Node.js, Express, MongoDB**, and modern tooling.  
-I love blending tech with creativity — whether it’s animations, UX polish, or large-scale functional apps.  
+I love blending tech with creativity — animations, UX polish, and unconventional builds.
 
 - 🔥 **Upcoming SWE Intern @ Cvent (Jan 2026)**  
 - 🏆 **Adobe India Hackathon 2025 – Top 100 Teams**  
-- 👨‍💻 Ex-FSD Intern @ **To-Let Globe** (Next.js migration, Appwrite integration, dynamic UI engineering)  
-- 🛡️ Project Intern @ **Athreya Technologies** (Web-based IP Spoofing System)  
-- 🎨 Into art, animations, creativity & unconventional ideas in tech  
+- 👨‍💻 Ex-FSD Intern @ **To-Let Globe**  
+- 🛡️ Project Intern @ **Athreya Technologies**  
+- 🎨 Into art, animations, and standout UI  
 - 🌐 Portfolio: **aniketkorwar.netlify.app**
 
 ---
 
 ## 🧠 Tech Arsenal  
+
 ### 🔹 Languages  
 <p>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
@@ -61,21 +71,41 @@ I love blending tech with creativity — whether it’s animations, UX polish, o
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketh1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketh1&theme=tokyonight&no-bg=true&margin-w=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Enhanced)
+
 <div align="center">
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aniketh1&show_icons=true&theme=tokyonight" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh1&layout=compact&theme=tokyonight" />
+  <!-- MAIN STATS -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aniketh1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketh1&theme=tokyonight" />
-  
+  <!-- LANGUAGES -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh1&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <!-- STREAK -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketh1&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+## 📈 Advanced GitHub Metrics  
+
+### 🔹 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketh1&theme=tokyo-night&hide_border=true" />
+</p>
+
+### 🔹 Profile Summary Cards  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketh1&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniketh1&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketh1&theme=tokyonight" />
+</p>
 
 ---
 
@@ -87,9 +117,10 @@ I love blending tech with creativity — whether it’s animations, UX polish, o
 ---
 
 ## 🔥 Featured Projects  
+
 ### 🛒 **Amazon Clone**  
 React · Redux · Firebase · Material UI  
-Full-featured e-commerce system with cart, auth, payments & product catalogue.
+Full-featured e-commerce system with cart, auth, payments, product catalogue.
 
 ### ✨ **Tech Shelf**  
 Next.js · Tailwind · Prisma · Clerk · Socket.io  
@@ -114,9 +145,8 @@ Real-time blogging platform with live comments & analytics dashboard.
 
 ## 💬 Fun Facts  
 - 🖤 Arijit Singh fan  
-- 🎨 Love building creative + flashy UI  
+- 🎨 Love creating flashy UI  
 - 🏍️ Ride: **Roopmati**  
 - ⚡ Always cooking some project  
 
 ---
-
